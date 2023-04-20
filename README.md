@@ -1,9 +1,9 @@
 
-  # aasfd
+  # README Generator
 
   ## Description
 
-  asdfds
+  This app will generate a readme file for you based on what you answer to the questions that will be displayed.
 
   ## Table of Contents (Optional)
 
@@ -11,32 +11,36 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Demo](#demo)
 
-  ##Installation
+  ## Installation
 
-  by installing it
+  To install this package first make sure you have VS Code, GitBash, and Node.js. Then you will need to copy the code within the github repo then clone it to whatever file you will like and  use the code npm init -y to install the node packager.After all that install the inquirer package
 
-  ##Usage
+  ## Usage
 
-  by using it
+  Once everything is downloaded initialize the code by using the command node index.js and after doing so and answering all the questions a new file will appear with your readme file
 
-  ## License
-  This project is using the apache 2.0 license. If you wanna learn more about it click the license.
+  ## Contributing
 
-  ![](https://img.shields.io/badge/license-apache%202.0-blue.svg)
+  This project doesnt have to be contributed
 
-  [apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+  ## Demo
 
-  ##Contributing
+  [video](https://drive.google.com/file/d/1E2iVdd8NFQ2YtGnC2s4FZ2FbrxM-IkdS/view?usp=sharing)
 
-  by contributing
 
-  ##Tests
-
-  by tetst
-
-  ##Questions
+  ## Questions
 
   GitHub:[JoelEstrada16](https://github.com/JoelEstrada16)
-  Email:undefined
+
+  Email: Joey220.JE@gmail.com
+
+  ## Credits
+
+  Joel Estrada
+
 
